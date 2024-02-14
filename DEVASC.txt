@@ -1,5 +1,9 @@
 I am on my way to passing the 
+<<<<<<< HEAD
 DevNet DEVASC examen
+=======
+NetAcad DEVASC examen  
+>>>>>>> test
 I am beginning to understand 
 Git!
 This text was added 
